@@ -27,8 +27,7 @@ This project focuses on training a **Teacher model** on the CIFAR-10 dataset as 
 | Params          | ~11M      |
 | File Size       | ~45MB     |
 
-![Accuracy Graph](results/teacher_accuracy.png)
-![Confusion Matrix](results/confusion_matrix.png)
+![Accuracy Graph] ![Confusion Matrix] - teacher_accuracy_confusion_matrix.png
 
 ---
 
