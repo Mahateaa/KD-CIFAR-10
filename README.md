@@ -18,3 +18,25 @@ This project focuses on training a **Teacher model** on the CIFAR-10 dataset as 
 - Mixed-precision (AMP) training
 - CosineAnnealingLR scheduler
 - Confusion matrix and classification report
+
+## 📊 Results (Teacher Model)
+
+| Metric          | Value     |
+|-----------------|-----------|
+| Final Accuracy  | **96.06%** |
+| Params          | ~11M      |
+| File Size       | ~45MB     |
+
+![Accuracy Graph](results/teacher_accuracy.png)
+![Confusion Matrix](results/confusion_matrix.png)
+
+---
+
+## 🚀 How to Run
+
+### 1. Clone the repo and install dependencies
+
+```bash
+git clone https://github.com/yourusername/knowledge-distillation.git
+cd knowledge-distillation
+pip install -r requirements.txt
