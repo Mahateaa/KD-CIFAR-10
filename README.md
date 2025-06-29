@@ -36,6 +36,6 @@ This project focuses on training a **Teacher model** on the CIFAR-10 dataset as 
 ### 1. Clone the repo and install dependencies
 
 ```bash
-git clone https://github.com/yourusername/knowledge-distillation.git
+git clone https://github.com/Mahateaa/KD-CIFAR-10.git
 cd knowledge-distillation
 pip install -r requirements.txt
